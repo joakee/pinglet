@@ -1,6 +1,6 @@
-# pinglet
+# `pinglet`
 
-<img src="https://joakey.ucc.asn.au/pinglet.png" alt="mascot" style="zoom:15%;" />
+<img src="https://joakey.ucc.asn.au/pinglet.png" alt="mascot" width=150px; />
 
 A quick and **very** simple network scanner.
 
