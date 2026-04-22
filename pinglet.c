@@ -123,7 +123,7 @@ int main(int argc, char *argv[]) {
     char *base_ip = argv[1];
     pthread_t threads[254];
 
-    printf("Starting fast LAN scan on %s.0/24...\n", base_ip);
+    printf("Starting scan on %s.0/24...\n", base_ip);
     printf("--------------------------------------------------------------------------------\n");
 
     // init 254 threads to scan .1 through .254 concurrently
