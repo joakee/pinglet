@@ -1,4 +1,5 @@
 # `pinglet`
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 <img src="https://joakey.ucc.asn.au/pinglet.png" alt="mascot" width=150px; />
 
